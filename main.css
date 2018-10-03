@@ -46,7 +46,7 @@
 body p {
   position: relative; 
     text-align: justify;
+    padding: 7px 7px 7px 7px;
 }
-body > img{
-  text-align: left;
+
 }
